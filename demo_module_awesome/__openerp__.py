@@ -20,6 +20,8 @@ Despite being really awesome, this module is only a demo module and doesn't add 
     ],
     'test': [
     ],
+    'price': 199,
+    'currency': 'EUR',
     'installable': True,
     'application': True,
     'auto_install': False,
